@@ -29,5 +29,5 @@ This is a project scheduler and tracker application designed to help admins and 
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/trackr.git
+git clone https://github.com/NehaVishwakarma26/Trackr.git
 
